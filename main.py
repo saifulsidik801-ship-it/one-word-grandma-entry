@@ -7,6 +7,7 @@ It lost to variant 2: "egghead" is a word grandma calls a clever person,
 not a word she texts ABOUT the machine. The pick is "gibberish" — her
 one-word verdict on AI itself: "it's all gibberish to me." Warm, baffled,
 funny in one word with no context needed, and tied to the AI's language.
+The file holds the word alone, lowercase, with no trailing newline.
 """
 
 import os
